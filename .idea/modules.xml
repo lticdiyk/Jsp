@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Ajax01/Ajax01.iml" filepath="$PROJECT_DIR$/Ajax01/Ajax01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ajax02/Ajax02.iml" filepath="$PROJECT_DIR$/Ajax02/Ajax02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ajax03/Ajax03.iml" filepath="$PROJECT_DIR$/Ajax03/Ajax03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AjaxWork/AjaxWork.iml" filepath="$PROJECT_DIR$/AjaxWork/AjaxWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Crawling/Crawling.iml" filepath="$PROJECT_DIR$/Crawling/Crawling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Jsp.iml" filepath="$PROJECT_DIR$/Jsp.iml" />
+    </modules>
+  </component>
+</project>
