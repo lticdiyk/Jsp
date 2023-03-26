@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Singleton:war">
+    <output-path>$PROJECT_DIR$/Singleton/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Singleton</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Singleton-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Singleton:war exploded" />
+    </root>
+  </artifact>
+</component>

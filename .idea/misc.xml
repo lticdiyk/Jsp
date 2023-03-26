@@ -6,6 +6,13 @@
     <file type="web" url="file://$PROJECT_DIR$/Ajax03" />
     <file type="web" url="file://$PROJECT_DIR$/AjaxWork" />
     <file type="web" url="file://$PROJECT_DIR$/Crawling" />
+    <file type="web" url="file://$PROJECT_DIR$/HaspMap" />
+    <file type="web" url="file://$PROJECT_DIR$/JDBC" />
+    <file type="web" url="file://$PROJECT_DIR$/JDBCtest" />
+    <file type="web" url="file://$PROJECT_DIR$/jspModel1" />
+    <file type="web" url="file://$PROJECT_DIR$/jspModel2" />
+    <file type="web" url="file://$PROJECT_DIR$/sample02" />
+    <file type="web" url="file://$PROJECT_DIR$/Singleton" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -15,10 +22,17 @@
         <option value="$PROJECT_DIR$/Ajax03/pom.xml" />
         <option value="$PROJECT_DIR$/AjaxWork/pom.xml" />
         <option value="$PROJECT_DIR$/Crawling/pom.xml" />
+        <option value="$PROJECT_DIR$/HaspMap/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBC/pom.xml" />
+        <option value="$PROJECT_DIR$/JDBCtest/pom.xml" />
+        <option value="$PROJECT_DIR$/jspModel1/pom.xml" />
+        <option value="$PROJECT_DIR$/jspModel2/pom.xml" />
+        <option value="$PROJECT_DIR$/sample02/pom.xml" />
+        <option value="$PROJECT_DIR$/Singleton/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

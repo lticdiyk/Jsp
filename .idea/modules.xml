@@ -7,7 +7,14 @@
       <module fileurl="file://$PROJECT_DIR$/Ajax03/Ajax03.iml" filepath="$PROJECT_DIR$/Ajax03/Ajax03.iml" />
       <module fileurl="file://$PROJECT_DIR$/AjaxWork/AjaxWork.iml" filepath="$PROJECT_DIR$/AjaxWork/AjaxWork.iml" />
       <module fileurl="file://$PROJECT_DIR$/Crawling/Crawling.iml" filepath="$PROJECT_DIR$/Crawling/Crawling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HaspMap/HaspMap.iml" filepath="$PROJECT_DIR$/HaspMap/HaspMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBC/JDBC.iml" filepath="$PROJECT_DIR$/JDBC/JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JDBCtest/JDBCtest.iml" filepath="$PROJECT_DIR$/JDBCtest/JDBCtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Jsp.iml" filepath="$PROJECT_DIR$/Jsp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspModel1/jspModel1.iml" filepath="$PROJECT_DIR$/jspModel1/jspModel1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jspModel2/jspModel2.iml" filepath="$PROJECT_DIR$/jspModel2/jspModel2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample02/sample02.iml" filepath="$PROJECT_DIR$/sample02/sample02.iml" />
     </modules>
   </component>
 </project>
